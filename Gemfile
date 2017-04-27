@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 #gem bootstrap-sass
 gem 'bootstrap-sass'
 
+gem 'bcrypt'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
